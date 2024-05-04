@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...Softwares programing
 - 💞️ I’m looking to collaborate on ...tech industry
 - 📫 How to reach me ...Programming
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... Let's connect, learn, and build together to shape the future of the web!
+- ⚡ Fun fact: ...about crafting engaging tech content.
 
 <!---
 cherubimq/cherubimq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
