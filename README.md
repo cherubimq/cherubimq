@@ -9,7 +9,7 @@
 <!---
 cherubimq/cherubimq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----><a href="https://cherubimq.github.io/github.io/mashine.html" rel="nofollow">CHERUBIM SEARCH MACHINE</a>
+---><a href="https://cherubimq.github.io/github.io/mashine.html" rel="nofollow"><strong>CHERUBIM SEARCH MACHINE</strong></a>
 <br><br>
 <a href="https://cdn2.me-qr.com/html/22756879.html" rel="nofollow" target="_blank"><strong>Website development</strong></a> Website administration
 <br>
