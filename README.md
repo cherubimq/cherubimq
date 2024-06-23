@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @cherubimq
 - 👀 I’m interested in ...Web development 
 - 🌱 I’m currently learning ...Softwares programing
-- 💞️ I’m looking to collaborate on ...tech industry
-- 📫 How to reach me ...Programming
-- 😄 Pronouns: ... Let's connect, learn, and build together to shape the future of the web!
+- 💞️ I’m looking to collaborate on ...tech industr
 - ⚡ Fun fact: ...about crafting engaging tech content.
 
 <!---
